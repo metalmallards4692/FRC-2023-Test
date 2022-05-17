@@ -85,7 +85,7 @@ public final class Constants {
   public static int SHOOTER_MOTOR_2 = 37;
 
 //Indexer Motors
-  public static int RIGHT_INDEX = 41;
+  public static int RIGHT_INDEX = 38;
   public static int LEFT_INDEX = 33;
 
 //intake Motor
